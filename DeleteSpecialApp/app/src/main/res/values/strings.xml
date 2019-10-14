@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">卸载指定的app</string>
+    <string name="action_settings">修改默认卸载的app包名</string>
+    <string name="action_add_static_short_icon">添加快捷方式</string>
+    <string name="default_package">com.fake.caller.plus</string>
+    <string name="ok">Ok</string>
+
+    <string name="tip">需要快捷卸载的包名</string>
+    <string name="tip_uninstall_app">未安装包名%s的app</string>
+    <string name="tip_add_pinned_short_cut">android 8.0 支持的功能</string>
+    <string name="tip_add_pinned_short_success">快捷方式已添加成功</string>
+    <string name="tip_quick_uninstall">快速卸载</string>
+    <string name="shortcut_short_label">卸载指定的app</string>
+    <string name="shortcut_long_label">卸载指定的app</string>
+    <string name="disabled_message">disabled</string>
+    <string name="cancel">取消</string>
+    <string name="uninstall">卸载</string>
+</resources>
